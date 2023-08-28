@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Portfolio](https://sahil-3d-portfolio.netlify.app/)
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **MERN_Stack**
 
 - 🤝 I’m looking for help with **Internships**
 
